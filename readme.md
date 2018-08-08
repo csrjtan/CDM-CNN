@@ -3,19 +3,18 @@
 ---
 
 # Test Code
-1.Compile and install matconvnet-1.0-beta22  <br>
-2.Run demosaick.m (if no gpu, adjust the code with gpu=0)
+1.*Download* and *Compile* matconvnet-1.0-beta22  <br>
+2.*Run* demosaick.m (if no gpu, adjust the code with gpu=0)
 
 # Test Dataset
 Including three testing datasets: Kodak, Mcmaster and Our WED-CDM dataset.
 
-<br>
-The training dataset and source code will release soon.
+
 
 
 # Requirements and Dependencies
 - MATLAB R2014a
-- [MatConvNet](http://www.vlfeat.org/matconvnet/download/)
+- MatConvNet
 - (if GPU version) Cuda-8.0 & cudnn v5.1
 
 
@@ -31,3 +30,7 @@ The training dataset and source code will release soon.
   organization={IEEE}
 }
 ```
+
+
+<br>
+The training dataset and source code will release soon.
