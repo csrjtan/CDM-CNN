@@ -3,11 +3,11 @@
 ---
 
 # Test Code
-1.*Download* and *Compile* matconvnet-1.0-beta22  <br>
-2.*Run* demosaick.m (if no gpu, adjust the code with gpu=0)
+1.**Download** and **Compile** matconvnet-1.0-beta22  <br>
+2.**Run** demosaick.m (if no gpu, adjust the code with gpu=0)
 
 # Test Dataset
-Including three testing datasets: Kodak, Mcmaster and Our WED-CDM dataset.
+Including three testing datasets: **Kodak**, **Mcmaster** and Our **WED-CDM** dataset.
 
 
 
@@ -33,4 +33,4 @@ Including three testing datasets: Kodak, Mcmaster and Our WED-CDM dataset.
 
 
 <br>
-The training dataset and source code will release soon.
+The training dataset and training code will release soon.
