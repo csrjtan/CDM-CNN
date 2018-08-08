@@ -1,4 +1,4 @@
-[COLOR IMAGE DEMOSAICKING VIA DEEP RESIDUAL LEARNING](http://www4.comp.polyu.edu.hk/~cslzhang/paper/CNNCDM_ICME2017.pdf)
+# [COLOR IMAGE DEMOSAICKING VIA DEEP RESIDUAL LEARNING](http://www4.comp.polyu.edu.hk/~cslzhang/paper/CNNCDM_ICME2017.pdf)
 
 ---
 
@@ -16,7 +16,7 @@ The training dataset and source code will release soon.
 # Requirements and Dependencies
 - MATLAB R2014a
 - [MatConvNet](http://www.vlfeat.org/matconvnet/download/)
-- (GPU version) Cuda-8.0 & cudnn v5.1
+- (if GPU version) Cuda-8.0 & cudnn v5.1
 
 
 # Citation
